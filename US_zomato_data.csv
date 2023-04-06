@@ -1,0 +1,416 @@
+,Restaurant ID,Restaurant Name,Country Code,City,Address,Locality,Longitude,Latitude,Cuisines,Average Cost for two,Currency,Price range,Aggregate rating,Rating text,Votes
+0,17284404,Austin's BBQ and Oyster Bar,216,Albany,"2820 Meredyth Dr, Albany, GA 31707",Albany,-84.221535,31.610387,"BBQ, Burger, Seafood",25,Dollar($),2,3.3,Average,35
+1,17284203,BJ's Country Buffet,216,Albany,"2401 Dawson Rd, Albany, GA 31707",Albany,-84.207095,31.608743,"American, BBQ",10,Dollar($),1,3.3,Average,25
+2,17284397,Elements Coffee Co - Northwest,216,Albany,"2726 Ledo Rd Ste 10, Albany, GA 31707",Albany,-84.206944,31.622412,"Coffee and Tea, Sandwich",10,Dollar($),1,3.4,Average,26
+3,17284094,Chick-fil-A,216,Albany,"2703 Dawson Rd, Albany, GA 31707",Albany,-84.2193,31.616,Fast Food,10,Dollar($),1,3.5,Good,67
+4,17284409,Guang Zhou Chinese Restaurant,216,Albany,"1214 N Westover Blvd, Albany, GA 31707",Albany,-84.2091458,31.6155186,"Asian, Chinese, Vegetarian",10,Dollar($),1,3.9,Good,141
+5,17284139,Harvest Moon,216,Albany,"2347 Dawson Road, Albany, GA 31707",Albany,-84.205718,31.604905,"Pizza, Bar Food, Sandwich",25,Dollar($),2,3.7,Good,147
+6,17284403,Henry Campbell's Steakhouse,216,Albany,"629 N. Westover Blvd, Albany, GA 31707",Albany,-84.223278,31.612121,"Steak, Tapas, Bar Food",70,Dollar($),4,3.5,Good,51
+7,17284145,Hong Kong Cafe,216,Albany,"2700 Dawson Rd, Albany, GA 31707",Albany,-84.2191,31.6156,"Chinese, Seafood, Vegetarian",25,Dollar($),2,3.6,Good,88
+8,17284150,House of China Restaurant II,216,Albany,"2526 Dawson Rd Ste A, Albany, GA 31707",Albany,-84.212,31.6104,Chinese,10,Dollar($),1,3.8,Good,153
+9,17284175,Locos Grill & Pub,216,Albany,"547 N Westover Blvd, Albany, GA 31707",Albany,-84.2228,31.6077,"American, Burger, Sandwich",25,Dollar($),2,3.5,Good,57
+10,17284179,Longhorn Steakhouse,216,Albany,"2733 Dawson Rd, Albany, GA 31707",Albany,-84.2229,31.6185,"American, Steak",25,Dollar($),2,3.5,Good,58
+11,17284197,Mikata Japanese Steakhouse,216,Albany,"2610 Dawson Rd, Albany, GA 31707",Albany,-84.2164,31.6137,"Japanese, Steak, Sushi",40,Dollar($),3,3.6,Good,115
+12,17284241,Shogun Japanese Steak House,216,Albany,"629 N Westover Blvd, Albany, GA 31707",Albany,-84.2233,31.6118,"Japanese, Steak, Sushi",40,Dollar($),3,3.5,Good,51
+13,17284390,The Catch Seafood Room & Oyster Bar,216,Albany,"2332 Whispering Pines Road, Albany, GA 31707",Albany,-84.205025,31.605882,"Seafood, Tapas, Bar Food",40,Dollar($),3,3.8,Good,250
+14,17284279,Villa Gargano,216,Albany,"1604 N Slappey Blvd, Albany, GA 31701",Albany,-84.1757,31.5985,"Italian, Pizza",10,Dollar($),1,3.7,Good,117
+15,17284364,3 Squares Diner,216,Albany,"202 W Franklin St, Sylvester, GA 31791",Sylvester,-83.8389,31.5308,"American, Breakfast, Diner",10,Dollar($),1,3.4,Average,20
+16,17293281,Last Resort Grill,216,Athens,"184 W Clayton St, Athens, GA 30601",Athens,-83.378273,33.957999,"American, Southern, Southwestern",40,Dollar($),3,4.5,Excellent,1821
+17,17293301,Mama's Boy Restaurant,216,Athens,"197 Oak St, GA 30601",Athens,-83.3654,33.9535,Southern,10,Dollar($),1,4.5,Excellent,849
+18,17293409,Sr. Sol 1,216,Athens,"175 Tallassee Rd, Athens, GA 30606",Athens,-83.4293,33.9652,Mexican,10,Dollar($),1,4.6,Excellent,917
+19,17293163,Choo Choo Eastside,216,Athens,"1055 Gaines School Rd Ste 100, Athens, GA 30605",Athens,-83.3389,33.9259,"Japanese, Korean",10,Dollar($),1,3.9,Good,439
+20,17293228,The Grill,216,Athens,"171 College Ave, Athens, GA 30601",Athens,-83.375523,33.958198,"Breakfast, Burger, Sandwich",10,Dollar($),1,3.7,Good,289
+21,17293880,Big City Bread Cafe,216,Athens,"393 N Finley St, Athens, GA 30601",Athens,-83.384004,33.959392,"Breakfast, Sandwich",10,Dollar($),1,4.3,Very Good,558
+22,17293169,Clocked,216,Athens,"259 W Washington St, Athens, GA 30601",Athens,-83.3797,33.9584,"American, Burger, Sandwich",10,Dollar($),1,4.2,Very Good,613
+23,17293186,DePalma's Italian Cafe - Downtown,216,Athens,"401 E Broad St, Athens, GA 30601",Athens,-83.373596,33.958112,"American, Italian, Pizza",25,Dollar($),2,4.0,Very Good,353
+24,17293180,DePalma's Italian Cafe - East Side,216,Athens,"1965 Barnett Shoals Rd, Athens, GA 30605",Athens,-83.33995,33.924275,"American, Italian, Pizza",25,Dollar($),2,4.1,Very Good,387
+25,17293205,Five & Ten,216,Athens,"1073 South Milledge Ave, Athens, GA 30605",Athens,-83.3872482,33.9415545,American,40,Dollar($),3,4.3,Very Good,755
+26,17293229,Grit,216,Athens,"199 Prince Ave, Athens, GA 30601",Athens,-83.381625,33.960112,"International, Southern, Vegetarian",10,Dollar($),1,4.2,Very Good,800
+27,17293897,Ike & Jane,216,Athens,"1307 Prince Ave, Athens, GA 30606",Athens,-83.400887,33.963296,Sandwich,10,Dollar($),1,4.1,Very Good,350
+28,17293273,La Dolce Vita Ristorante,216,Athens,"323 E Broad St, Athens, GA 30601",Athens,-83.4075,33.9584,Italian,40,Dollar($),3,4.1,Very Good,464
+29,17293870,Shokitini,216,Athens,"251 W Clayton St, Athens, GA 30601",Athens,-83.379251,33.957503,"Asian, Japanese, Sushi",25,Dollar($),2,4.2,Very Good,550
+30,17293877,Taqueria Del Sol,216,Athens,"334 Prince Ave, Athens, GA 30601",Athens,-83.383605,33.960571,"Mexican, Spanish",10,Dollar($),1,4.1,Very Good,543
+31,17293890,The National,216,Athens,"232 W. Hancock Ave., Athens, GA 30601",Athens,-83.37967,33.959468,"International, Southern",40,Dollar($),3,4.1,Very Good,465
+32,17293915,The Royal Peasant,216,Athens,"1675 S. Lumpkin St., Athens, GA 30606",Athens,-83.38728,33.937502,Bar Food,10,Dollar($),1,4.4,Very Good,546
+33,17293422,Transmetropolitan,216,Athens,"145 E Clayton St, Athens, GA 30601",Athens,-83.3764,33.9584,"Italian, Pizza, Sandwich",10,Dollar($),1,4.4,Very Good,1098
+34,17293873,Trappeze Pub,216,Athens,"269 N Hull St, Athens, GA 30601",Athens,-83.378881,33.958363,"Burger, Bar Food",25,Dollar($),2,4.2,Very Good,579
+35,17294014,Viva! Argentine Cuisine,216,Athens,"247 Prince Ave, Athens, GA 30601",Athens,-83.3828224,33.9600227,"Desserts, Latin American, Argentine",10,Dollar($),1,4.1,Very Good,374
+36,17294556,Miyabi Kyoto Japanese Steak House,216,Augusta,"1315 Augusta West Pkwy, Augusta, GA 30909",Augusta,-82.0865,33.4721,"Chinese, Steak",40,Dollar($),3,4.6,Excellent,717
+37,17294607,Rae's Coastal Cafe,216,Augusta,"3208 W Wimbledon Dr, Augusta, GA 30909",Augusta,-82.0698,33.4791,"American, Caribbean, Seafood",40,Dollar($),3,4.9,Excellent,548
+38,17294279,The Bee's Knees,216,Augusta,"211 10th Street, Augusta, GA 30901",Augusta,-81.97,33.4765,"International, Tapas, Vegetarian",25,Dollar($),2,4.5,Excellent,631
+39,17294300,Boll Weevil Cafe,216,Augusta,"10 9th St, Augusta, GA 30901",Augusta,-81.9684,33.474,"Desserts, Sandwich, Southern",10,Dollar($),1,3.9,Good,372
+40,17295215,Farmhaus Burger,216,Augusta,"1204 Broad St, Augusta, GA 30901",Augusta,-81.973006,33.477444,"American, Burger",25,Dollar($),2,3.9,Good,201
+41,17295028,Manuel's Bread Cafe,216,Augusta,"505 Railroad Ave, North Augusta, GA 29841",Augusta,-81.965571,33.481779,"Breakfast, French",40,Dollar($),3,3.8,Good,332
+42,17294642,Sconyers Bar B Que,216,Augusta,"2250 Sconyers Way, Augusta, GA 30906",Augusta,-82.0327,33.4086,BBQ,25,Dollar($),2,3.5,Good,304
+43,17295109,Frog Hollow Tavern,216,Augusta,"1282 broad street, Augusta, GA 30901",Augusta,-81.974944,33.478231,American,40,Dollar($),3,4.3,Very Good,368
+44,17294441,Giuseppe's Pizza & Italian Specialities,216,Augusta,"3690 Wheeler Rd, Augusta, GA 30909",Augusta,-82.096,33.4827,"Desserts, Italian, Pizza",25,Dollar($),2,4.1,Very Good,430
+45,17294552,Mellow Mushroom,216,Augusta,"1167 Broad St, Augusta, GA 30901",Augusta,-81.9721,33.4778,"Italian, Pizza, Sandwich",25,Dollar($),2,4.4,Very Good,433
+46,17294565,Nacho Mamas Burritos,216,Augusta,"976 Broad St, Augusta, GA 30901",Augusta,-81.9694,33.4764,Mexican,10,Dollar($),1,4.0,Very Good,380
+47,17294623,Rhinehart's Oyster Bar,216,Augusta,"3051 Washington Rd, Augusta, GA 30907",Augusta,-82.0505,33.5133,"Bar Food, Sandwich, Seafood",25,Dollar($),2,4.0,Very Good,456
+48,17294712,Takosushi,216,Augusta,"437 Highland Ave, Augusta, GA 30909",Augusta,-82.0301,33.4848,"Mexican, Southwestern, Sushi",40,Dollar($),3,4.2,Very Good,647
+49,17295033,The Chop House,216,Augusta,"Augusta Mall, Augusta, GA 30909",Augusta,-82.080788,33.467201,Steak,40,Dollar($),3,4.0,Very Good,360
+50,17295069,The Taj of India,216,Augusta,"502 Furys Ferry Rd, Augusta, GA 30907",Augusta,-82.0805493,33.5375868,Indian,25,Dollar($),2,4.0,Very Good,227
+51,17294261,Augsburg Haus,216,Augusta,"4460 Washington Road, Evans, GA 30809",Evans,-82.143793,33.544342,German,25,Dollar($),2,3.9,Good,290
+52,17295115,Pho Bac,216,Augusta,"4300 Towne Centre, Evans, GA 30809",Evans,-82.126161,33.532249,Vietnamese,10,Dollar($),1,4.1,Very Good,270
+53,17294836,Rhinehart's Oyster Bar,216,Augusta,"303 North Bel Air Rd, Evans, GA 30809",Evans,-82.141284,33.521291,"Burger, Seafood",25,Dollar($),2,4.0,Very Good,326
+54,17294850,Thai Kitchen,216,Augusta,"4357 Washington Road, Evans, GA 30809",Evans,-82.1328,33.5406,Thai,35,Dollar($),3,4.3,Very Good,317
+55,17294883,El Kiosco Mexican Restaurant,216,Augusta,"5174 Wrightsboro Rd, Grovetown, GA 30813",Grovetown,-82.1997,33.4574,Mexican,10,Dollar($),1,4.2,Very Good,300
+56,17303465,Bardenay,216,Boise,"610 W Grove St, Boise, ID 83702",Boise,-116.2019,43.6138,"American, Bar Food",25,Dollar($),2,4.5,Excellent,879
+57,17303642,Flatbread Neapolitan Pizzeria,216,Boise,"800 W Main Suite 230, Boise, ID 83702",Boise,-116.203466,43.616068,"Italian, Pizza",25,Dollar($),2,4.6,Excellent,615
+58,17303670,Goldy's Breakfast Bistro,216,Boise,"108 S Capitol Blvd, Boise, ID 83702",Boise,-116.2023,43.6149,"Breakfast, Sandwich",25,Dollar($),2,4.5,Excellent,879
+59,17303545,Chandlers Steakhouse,216,Boise,"981 W Grove St, Boise, ID 83702",Boise,-116.2064,43.6157,"American, Seafood, Steak",70,Dollar($),4,3.9,Good,379
+60,17303655,Bar Gernika Basque Pub & Eatery,216,Boise,"202 S Capitol Blvd, Boise, ID 83702",Boise,-116.2031,43.614,"European, Spanish",10,Dollar($),1,4.3,Very Good,303
+61,17304691,Barbacoa Restaurant,216,Boise,"276 Bobwhite Ct, Boise, ID 83706",Boise,-116.185034,43.597235,"Latin American, Steak",70,Dollar($),4,4.1,Very Good,538
+62,17303478,Big Jud's,216,Boise,"1289 Protest Rd, Boise, ID 83706",Boise,-116.2062,43.5945,"American, Burger, Sandwich",10,Dollar($),1,4.2,Very Good,334
+63,17303480,Bittercreek Ale House,216,Boise,"246 N 8th St, Boise, ID 83702",Boise,-116.2022,43.6167,"American, Bar Food",25,Dollar($),2,4.3,Very Good,555
+64,17304733,Boise Fry Company,216,Boise,"204 N Capitol Blvd, Boise, ID 83702",Boise,-116.193409,43.610279,"American, Burger",10,Dollar($),1,4.4,Very Good,823
+65,17303646,Flying Pie Pizzaria,216,Boise,"6508 W Fairview Ave, Boise, ID 83704",Boise,-116.2625,43.6192,Pizza,25,Dollar($),2,4.1,Very Good,550
+66,17304929,Fork,216,Boise,"199 N 8th St, Boise, ID 83702",Boise,-116.202845,43.616295,"American, Burger",25,Dollar($),2,4.4,Very Good,650
+67,17303684,Guido's Original New York Style Pizza,216,Boise,"235 N 5th St, Boise, ID 83702",Boise,-116.199,43.615,Pizza,10,Dollar($),1,4.3,Very Good,410
+68,17303772,Los Beto's,216,Boise,"5220 W Fairview Ave, Boise, ID 83706",Boise,-116.2463,43.6191,Mexican,10,Dollar($),1,4.4,Very Good,660
+69,17305123,Lucianos Italian Restaurant,216,Boise,"11 N Orchard St, Boise, ID 83706",Boise,-116.245165,43.6051379,"Italian, Seafood, Vegetarian",25,Dollar($),2,4.4,Very Good,360
+70,17303787,Mai Thai Restaurant,216,Boise,"750 W Idaho St, Boise, ID 83702",Boise,-116.2021,43.6162,"Sushi, Thai",40,Dollar($),3,4.0,Very Good,340
+71,17303990,Shige Japanese Cuisine,216,Boise,"100 N 8th St, Boise, ID 83702",Boise,-116.2031,43.6156,"Japanese, Sushi, Teriyaki",25,Dollar($),2,4.1,Very Good,393
+72,17304741,The Egg Factory,216,Boise,"8061 W Fairview Ave, Boise, ID 83704",Boise,-116.281809,43.619274,Breakfast,10,Dollar($),1,4.3,Very Good,422
+73,17304726,Tucanos,216,Boise,"1388 S Entertainment Ave, Boise, ID 83709",Boise,-116.280614,43.591706,Brazilian,40,Dollar($),3,4.0,Very Good,435
+74,17304486,Texas Roadhouse,216,Boise,"3801 E Fairview Avenue, Meridian, Boise, ID 83642",Meridian,-116.347304,43.619108,"American, BBQ, Steak",25,Dollar($),2,4.0,Very Good,369
+75,17304533,Brick 29,216,Boise,"320 11th Avenue S, Nampa, ID 83651",Nampa,-116.5629,43.5777,American,40,Dollar($),3,4.4,Very Good,487
+76,17316233,Winifreds,216,Cedar Rapids/Iowa City,"3847 1st Ave SE, Cedar Rapids, IA 52402",Cedar Rapids,-91.6336,42.0179,"American, Mediterranean, Seafood",40,Dollar($),3,3.7,Good,98
+77,17315883,Biaggi's Ristorante Italiano,216,Cedar Rapids/Iowa City,"320 Collins Rd NE, Cedar Rapids, IA 52402",Cedar Rapids,-91.6327,42.0281,"Italian, Pizza",40,Dollar($),3,4.1,Very Good,365
+78,17315995,El Super Burrito,216,Cedar Rapids/Iowa City,"3300 Johnson Ave NW, Cedar Rapids, IA 52405",Cedar Rapids,-91.7148,41.9748,Mexican,10,Dollar($),1,4.1,Very Good,190
+79,17316018,Granite City Food & Brewery,216,Cedar Rapids/Iowa City,"4755 1st Ave SE, Cedar Rapids, IA 52402",Cedar Rapids,-91.6224,42.0249,"American, Breakfast, Burger",40,Dollar($),3,4.1,Very Good,429
+80,17316038,Irish Democrat,216,Cedar Rapids/Iowa City,"3207 1st Ave SE, Cedar Rapids, IA 52402",Cedar Rapids,-91.6347,42.01,"American, BBQ, Burger",25,Dollar($),2,4.4,Very Good,430
+81,17316771,Taste of India,216,Cedar Rapids/Iowa City,"1060 Old Marion Rd NE, Cedar Rapids, IA 52402",Cedar Rapids,-91.6499622,42.0215347,Indian,25,Dollar($),2,4.2,Very Good,186
+82,17316201,Thai Moon Restaurant,216,Cedar Rapids/Iowa City,"4362 16th Ave SW, Cedar Rapids, IA 52404",Cedar Rapids,-91.7266,41.9639,"Chinese, Sushi, Thai",10,Dollar($),1,4.2,Very Good,220
+83,17316208,Ting's Red Lantern,216,Cedar Rapids/Iowa City,"540 Boyson Rd NE, Cedar Rapids, IA 52402",Cedar Rapids,-91.6394,42.0468,Chinese,10,Dollar($),1,4.2,Very Good,347
+84,17316389,Monica's,216,Cedar Rapids/Iowa City,"303 2nd Street, Coralville, IA 52241",Coralville,-91.569767,41.670466,"American, Italian, Pizza",25,Dollar($),2,3.8,Good,161
+85,17316278,Exotic India,216,Cedar Rapids/Iowa City,"102 2nd Ave, Coralville, IA 52241",Coralville,-91.5687,41.6685,Indian,25,Dollar($),2,4.1,Very Good,160
+86,17316744,Shorts Burger and Shine,216,Cedar Rapids/Iowa City,"18 S Clinton St, Iowa City, IA 52240",Iowa City,-91.534424,41.660982,Burger,10,Dollar($),1,4.9,Excellent,820
+87,17316751,The Hamburg Inn No. 2 Inc.,216,Cedar Rapids/Iowa City,"214 N Linn St, Iowa City, IA 52245",Iowa City,-91.531414,41.663849,"American, Breakfast, Burger",10,Dollar($),1,4.5,Excellent,488
+88,17316766,Bluebird Diner,216,Cedar Rapids/Iowa City,"330 E Market St, Iowa City, IA 52245",Iowa City,-91.531093,41.663751,"Breakfast, Diner",25,Dollar($),2,3.6,Good,253
+89,17316743,Graze,216,Cedar Rapids/Iowa City,"115 East College St, Iowa City, IA 52240",Iowa City,-91.534302,41.658691,"American, International, Sushi",40,Dollar($),3,3.8,Good,220
+90,17316374,A & A Pagliai's Pizza,216,Cedar Rapids/Iowa City,"302 E Bloomington St, Iowa City, IA 52245",Iowa City,-91.5314,41.6648,Pizza,25,Dollar($),2,4.3,Very Good,485
+91,17316381,Atlas World Grill,216,Cedar Rapids/Iowa City,"127 Iowa Ave, Iowa City, IA 52240",Iowa City,-91.5341,41.661,International,40,Dollar($),3,4.3,Very Good,428
+92,17316802,BlackStone,216,Cedar Rapids/Iowa City,"503 Westbury Dr Ste 1, Iowa City, IA 52245",Iowa City,-91.482165,41.667742,"American, Breakfast",25,Dollar($),2,4.1,Very Good,294
+93,17316416,Devotay,216,Cedar Rapids/Iowa City,"117 N Linn St, Iowa City, IA 52245",Iowa City,-91.5318,41.6625,"Mediterranean, Tapas, Vegetarian",40,Dollar($),3,4.0,Very Good,380
+94,17316449,Jimmy Jack's Rib Shack,216,Cedar Rapids/Iowa City,"1940 Lower Muscatine Rd, Iowa City, IA 52240",Iowa City,-91.5074,41.6428,BBQ,25,Dollar($),2,4.2,Very Good,259
+95,17316603,Zoeys Pizzeria,216,Cedar Rapids/Iowa City,"690 10th St, Marion, IA 52302",Marion,-91.5995,42.0331,"Pizza, Sandwich",25,Dollar($),2,4.7,Excellent,433
+96,17558684,Berry Patch Restaurant,216,Clatskanie,"49289 Us-30, Westport, OR 97016",Clatskanie,-123.368151,46.126967,"American, Breakfast, Desserts",10,Dollar($),1,4.3,Very Good,96
+97,17330755,Uptown Vietnam cuisine,216,Columbus,"1250 Broadway, Columbus, GA 31901",Columbus,-84.992671,32.470315,"Asian, Vietnamese",10,Dollar($),1,3.3,Average,33
+98,17330611,Cafe Le Rue @ The Landings,216,Columbus,"2523 Airport Thruway, Columbus, GA 31904",Columbus,-84.95591,32.519247,"American, Seafood, Cajun",25,Dollar($),2,4.6,Excellent,489
+99,17330609,Mark's City Grille,216,Columbus,"7160 moon road, Columbus, GA 31909",Columbus,-84.927047,32.555591,American,25,Dollar($),2,4.5,Excellent,345
+100,17330024,B Merrell's,216,Columbus,"7600 Veterans Pkwy, Columbus, GA 31909",Columbus,-84.9436,32.5577,"Burger, Bar Food, Southern",25,Dollar($),2,3.8,Good,149
+101,17330074,Cannon Brewpub,216,Columbus,"1041 Broadway, Columbus, GA 31901",Columbus,-84.9936,32.4656,"Pizza, Bar Food",25,Dollar($),2,3.9,Good,330
+102,17330185,Fuji Japanese Steak House,216,Columbus,"6499 Veterans Pkwy, Columbus, GA 31909",Columbus,-84.954984,32.5382197,"Japanese, Steak",40,Dollar($),3,3.9,Good,247
+103,17330397,Ruth Ann's Family Restaurant,216,Columbus,"941 Veterans Parkway, Columbus, GA 31901",Columbus,-84.9876,32.4637,"Breakfast, Diner, Southern",10,Dollar($),1,3.7,Good,123
+104,17330735,Samurai Japanese Cuisine & Sushi Bar,216,Columbus,"1009 Broadway, Columbus, GA 31901",Columbus,-84.9933631,32.4652417,"Japanese, Steak, Sushi",40,Dollar($),3,3.6,Good,109
+105,17330676,Wasabi Sushi and Thai,216,Columbus,"1639 Bradley Park Dr, Columbus, GA 31904",Columbus,-84.96661,32.534002,"Japanese, Sushi, Thai",40,Dollar($),3,3.7,Good,134
+106,17330048,Buckhead Bar and Grill,216,Columbus,"5010 Armour Rd, Columbus, GA 31904",Columbus,-84.95367,32.513154,"Seafood, Steak, Vegetarian",40,Dollar($),3,4.2,Very Good,722
+107,17330604,Burt's Butcher Shoppe and Eatery,216,Columbus,"2932 Warm Springs Rd, Columbus, GA 31909",Columbus,-84.947569,32.504657,Steak,25,Dollar($),2,4.3,Very Good,213
+108,17330087,Chef Lee's Peking Restaurant,216,Columbus,"6100 Bradley Park Dr, Columbus, GA 31904",Columbus,-84.9607,32.5393,Chinese,25,Dollar($),2,4.0,Very Good,335
+109,17330137,Country's Barbecue,216,Columbus,"3137 Mercury Dr, Columbus, GA 31906",Columbus,-84.9464,32.4792,"BBQ, Southern",25,Dollar($),2,4.0,Very Good,353
+110,17330309,Mellow Mushroom,216,Columbus,"6100 Veterans Pkwy, Columbus, GA 31909",Columbus,-84.9557,32.5321,Pizza,25,Dollar($),2,4.1,Very Good,192
+111,17330311,Meritage,216,Columbus,"1039 1st Ave, Columbus, GA 31901",Columbus,-84.992093,32.466158,"American, Tapas",40,Dollar($),3,4.1,Very Good,302
+112,17330615,Mongo The Mongolian Fire Pit,216,Columbus,"7830 - E Veterans Pkwy, Columbus, GA 31909",Columbus,-84.938698,32.560905,"Asian, Chinese",10,Dollar($),1,4.2,Very Good,355
+113,17330638,The Black Cow,216,Columbus,"115 A 12th St, Columbus, GA 31901",Columbus,-84.991384,32.468757,American,25,Dollar($),2,4.3,Very Good,287
+114,17330628,Wood Stone,216,Columbus,"5739 Whitesville Rd, Columbus, GA 31904",Columbus,-84.963201,32.527217,"Italian, Mediterranean, Pizza",40,Dollar($),3,4.0,Very Good,264
+115,17330546,Hunter's Pub,216,Columbus,"11269 GA Hwy 219, Hamilton, GA 31811",Hamilton,-85.0213,32.7455,"American, Seafood, Steak",40,Dollar($),3,4.4,Very Good,235
+116,17334434,Thatcher's Barbeque and Grill,216,Dalton,"1214 N Wall St, Calhoun, GA 30701",Calhoun,-84.9396931,34.5251331,"American, BBQ, Southern",25,Dollar($),2,3.7,Good,38
+117,17334348,Christian and Jake's Bistro,216,Dalton,"555 Georgia Hwy 53, Calhoun, GA 30701",Calhoun,-84.926258,34.474635,"Desserts, Sandwich",10,Dollar($),1,4.4,Very Good,122
+118,17334213,Dub's High on the Hog,216,Dalton,"349 S Wall St, Calhoun, GA 30701",Calhoun,-84.9523921,34.4972488,BBQ,25,Dollar($),2,4.4,Very Good,207
+119,17334355,Sierra's Mexican Restaurant,216,Dalton,"500 S. 3rd Avenue, Chatsworth, GA 30705",Chatsworth,-84.767911,34.752476,"Mexican, Tex-Mex",10,Dollar($),1,3.9,Good,66
+120,17334212,Oakwood Cafe,216,Dalton,"201 West Cuyler Street, Dalton, GA 30720",Dalton,-84.969393,34.769686,"BBQ, Breakfast, Southern",10,Dollar($),1,4.9,Excellent,249
+121,17333797,Chili's Grill & Bar,216,Dalton,"881 College Dr, Dalton, GA 30720",Dalton,-85.0039,34.7643,American,25,Dollar($),2,3.8,Good,63
+122,17334217,Fuji Japanese Steakhouse,216,Dalton,"1321 W Walnut Ave, Dalton, GA 30720",Dalton,-84.992342,34.759551,"Japanese, Sushi",40,Dollar($),3,3.8,Good,145
+123,17334273,Las Palmas,216,Dalton,"1331 W Walnut Ave, Dalton, GA 30720",Dalton,-84.992924,34.759665,Mexican,10,Dollar($),1,3.8,Good,83
+124,17334254,Tony's Italian Restaurant & Pizza,216,Dalton,"933 Market St, Dalton, GA 30720",Dalton,-84.999678,34.758645,Italian,25,Dollar($),2,3.7,Good,116
+125,17333836,Filling Station,216,Dalton,"316 N Hamilton St, Dalton, GA 30720",Dalton,-84.9678,34.7742,"American, Burger",10,Dollar($),1,4.1,Very Good,122
+126,17334197,Five Guys Burgers and Fries,216,Dalton,"1303 W. Walnut Ave., Dalton, GA 30720",Dalton,-84.990925,34.759273,Fast Food,10,Dollar($),1,4.1,Very Good,142
+127,17333882,Los Pablos,216,Dalton,"1513 W Walnut Ave Ste 6, Dalton, GA 30720",Dalton,-84.9964,34.7604,Mexican,10,Dollar($),1,4.1,Very Good,114
+128,17334211,Kobe Hibachi & Sushi,216,Dalton,"2603 Battlefield Pkwy, Fort Oglethorpe, GA 30742",Fort Oglethorpe,-85.2229101,34.9428786,"American, Japanese, Sushi",25,Dollar($),2,4.6,Excellent,214
+129,17334390,Soho Hibachi,216,Dalton,"1014 Battlefield Parkway, Fort Oglethorpe, GA 30742",Fort Oglethorpe,-85.246237,34.9528157,Japanese,10,Dollar($),1,4.3,Very Good,116
+130,17334034,Thai Garden,216,Dalton,"685 Battlefield Pkwy, Fort Oglethorpe, GA 30742",Fort Oglethorpe,-85.2545,34.9546,Thai,25,Dollar($),2,4.2,Very Good,111
+131,17334414,Southern Bliss Bakery,216,Dalton,"300 W Patton St., Lafayette, GA 30728",LaFayette,-85.294955,34.705093,"Desserts, Sandwich",10,Dollar($),1,3.7,Good,25
+132,17334082,Bailey's Bar-B-Que,216,Dalton,"5540 Highway 41, Ringgold, GA 30736",Ringgold,-85.1321,34.9273,BBQ,10,Dollar($),1,4.1,Very Good,128
+133,17334364,Farm To Fork,216,Dalton,"118 Remco Shops Lane, Ringgold, GA 30736",Ringgold,-85.130492,34.912109,"American, Diner, Southern",10,Dollar($),1,4.3,Very Good,244
+134,17334398,Home Plate Grill,216,Dalton,"7807 Nashville St, Ringgold, GA 30736",Ringgold,-85.1079396,34.9151853,"American, BBQ, Southern",10,Dollar($),1,4.2,Very Good,112
+135,17334219,Pie Slingers Pizzeria,216,Dalton,"56A Fieldstone Village Drive, Rock Spring, GA 30739",Rock Spring,-85.249727,34.851907,"Italian, Pizza",10,Dollar($),1,4.1,Very Good,144
+136,17335173,Olive Tree Cafe,216,Davenport,"2513 53rd Avenue, Bettendorf, IA 52722",Bettendorf,-90.496986,41.574935,"Indian, Mediterranean, Middle Eastern",25,Dollar($),2,4.6,Excellent,166
+137,17335195,"Red Ginger Sushi, Grill & Bar",216,Davenport,"793 Middle Rd, Bettendorf, IA 52722",Bettendorf,-90.522479,41.53845,"Sushi, Teriyaki",40,Dollar($),3,4.5,Excellent,208
+138,17335225,Crust Stone Oven Pizza,216,Davenport,"2561 E 53rd Ave, Bettendorf, IA 52722",Bettendorf,-90.4912446,41.5747801,"Burger, Pizza",25,Dollar($),2,3.9,Good,136
+139,17335219,Jimmy's Pancake House,216,Davenport,"2521 - 18th St., Bettendorf, IA 52722",Bettendorf,-90.504176,41.548746,"American, Breakfast, Greek",10,Dollar($),1,4.0,Very Good,85
+140,17334965,Trattoria Tiramisu,216,Davenport,"1804 State St, Bettendorf, IA 52722",Bettendorf,-90.50709,41.525384,Italian,25,Dollar($),2,4.1,Very Good,117
+141,17335189,Prairie Grille at SteepleGate Inn,216,Davenport,"100 W 76th St, Davenport, IA 52806",Davenport,-90.574088,41.593892,"American, Breakfast",25,Dollar($),2,3.4,Average,53
+142,17335156,Tantra Asian Bistro,216,Davenport,"589 East 53rd St, Davenport, IA 52807",Davenport,-90.565837,41.574459,Asian,25,Dollar($),2,4.9,Excellent,474
+143,17334717,Chick-fil-A,216,Davenport,"320 W Kimberly Rd, Davenport, IA 52806",Davenport,-90.5716,41.5604,Fast Food,10,Dollar($),1,3.9,Good,125
+144,17334752,Duck City Bistro,216,Davenport,"115 E 3rd St, Davenport, IA 52801",Davenport,-90.5737,41.5223,"American, French",70,Dollar($),4,3.7,Good,201
+145,17334718,China Cafe,216,Davenport,"3018 E 53rd St, Davenport, IA 52807",Davenport,-90.5321,41.5749,Chinese,25,Dollar($),2,4.0,Very Good,112
+146,17334763,Exotic Thai Restaurant,216,Davenport,"2303 E 53rd St, Davenport, IA 52807",Davenport,-90.5432,41.5747,Thai,25,Dollar($),2,4.1,Very Good,256
+147,17335158,Front Street Brewery,216,Davenport,"208 E River Dr, Davenport, IA 52801",Davenport,-90.572418,41.520389,American,10,Dollar($),1,4.3,Very Good,123
+148,17334782,Granite City Food & Brewery,216,Davenport,"5270 Utica Ridge Rd, Davenport, IA 52807",Davenport,-90.5137,41.5745,American,25,Dollar($),2,4.0,Very Good,199
+149,17334846,Los Agaves,216,Davenport,"3852 N Brady St, Davenport, IA 52806",Davenport,-90.5686,41.559,Mexican,25,Dollar($),2,4.1,Very Good,157
+150,17334853,Machine Shed Restaurant,216,Davenport,"7250 Northwest Blvd, Davenport, IA 52806",Davenport,-90.6136,41.5944,American,25,Dollar($),2,4.1,Very Good,100
+151,17335168,Osaka,216,Davenport,"4901 Utica Ridge Rd, Davenport, IA 52807",Davenport,-90.515175,41.570997,"Japanese, Sushi",40,Dollar($),3,4.2,Very Good,141
+152,17334958,Texas Roadhouse,216,Davenport,"4005 E 53rd Street, Davenport, IA 52807",Davenport,-90.517,41.5747,"American, BBQ, Steak",25,Dollar($),2,4.2,Very Good,197
+153,17258496,Hickory Park,216,Des Moines,"1404 S Duff Ave, Ames, IA 50010",Ames,-93.610084,42.010254,"BBQ, Burger, Desserts",25,Dollar($),2,4.5,Excellent,1025
+154,17259395,The Cafe,216,Des Moines,"2616 Northridge Pkwy, Ames, IA 50010",Ames,-93.643094,42.048779,"American, Coffee and Tea",25,Dollar($),2,4.9,Excellent,570
+155,17258350,Flying Mango,216,Des Moines,"4345 Hickman Rd, Des Moines, IA 50310",Beaverdale,-93.677638,41.614965,"BBQ, Caribbean, Cajun",40,Dollar($),3,4.5,Excellent,674
+156,17258136,Cool Basil,216,Des Moines,"8801 University Ave, Clive, IA 50325",Clive,-93.739573,41.600564,"Asian, Sushi, Thai",25,Dollar($),2,4.1,Very Good,496
+157,17258522,HuHot Mongolian Grill,216,Des Moines,"4100 University Avenue, West Des Moines, IA 50266",Clive,-93.760027,41.60028,"Asian, Chinese",25,Dollar($),2,4.0,Very Good,411
+158,17259958,Malo,216,Des Moines,"900 Mulberry Street, Des Moines, IA 50309",Downtown,-93.627896,41.583309,"Latin American, Mexican",25,Dollar($),2,3.2,Average,113
+159,17258036,Centro,216,Des Moines,"1007 Locust St, Des Moines, IA 50309",Downtown,-93.6300803,41.5857431,"Italian, Pizza",40,Dollar($),3,4.5,Excellent,1109
+160,17259368,Fong's Pizza,216,Des Moines,"223 4th Street, Des Moines, IA 50309",Downtown,-93.621631,41.585465,"Chinese, Pizza",25,Dollar($),2,4.6,Excellent,728
+161,17257684,A Dong Restaurant,216,Des Moines,"1511 High Street, Des Moines, IA 50309",Downtown,-93.637401,41.587219,"Asian, Vegetarian, Vietnamese, Bubble Tea",10,Dollar($),1,4.4,Very Good,659
+162,17258154,Court Avenue Brewing Company,216,Des Moines,"309 Court Ave, Des Moines, IA 50309",Downtown,-93.620726,41.58536,"American, Pizza, Bar Food",40,Dollar($),3,4.2,Very Good,370
+163,17259340,Django,216,Des Moines,"210 10th Street, Des Moines, IA 50309",Downtown,-93.629436,41.584027,French,40,Dollar($),3,4.3,Very Good,532
+164,17259243,Miyabi 9,216,Des Moines,"512 E Grand Ave, Des Moines, IA 50309",East Village,-93.611366,41.590819,"Japanese, Sushi",25,Dollar($),2,4.8,Excellent,860
+165,17259625,Zombie Burger + Drink Lab,216,Des Moines,"300 E. Grand Ave., Des Moines, IA 50309",East Village,-93.61474,41.590106,"Burger, Desserts, Vegetarian",10,Dollar($),1,4.2,Very Good,943
+166,17259169,Tursi's Latin King,216,Des Moines,"2200 Hubbell Ave, Des Moines, IA 50317",Fairground,-93.577383,41.601415,"American, Italian",70,Dollar($),4,4.1,Very Good,476
+167,17259166,Tsing Tsao South,216,Des Moines,"4230 Fleur Dr, Des Moines, IA 50321",Greater South Side,-93.645245,41.545869,Chinese,10,Dollar($),1,4.1,Very Good,218
+168,17259335,Bandit Burrito,216,Des Moines,"5340 Merle Hay Road, Johnston, IA 50131",Johnston,-93.6976773,41.6714654,"Breakfast, Mexican, Southwestern",10,Dollar($),1,4.0,Very Good,214
+169,17259248,Jethro's BBQ,216,Des Moines,"3100 Forest Ave, Des Moines, IA 50311",Kingman Place Historic District,-93.659797,41.603901,"American, BBQ",25,Dollar($),2,4.3,Very Good,699
+170,17258552,The Machine Shed Restaurant,216,Des Moines,"11151 Hickman Road, Urbandale, IA 50322",Urbandale,-93.772033,41.615083,"American, Breakfast",25,Dollar($),2,3.8,Good,308
+171,17259550,Mi Patria,216,Des Moines,"1410 22nd St., West Des Moines, IA 50266",West Des Moines,-93.73624,41.594039,Latin American,25,Dollar($),2,4.0,Very Good,157
+172,17259200,Waterfront Seafood Market,216,Des Moines,"2900 University Ave, West Des Moines, IA 50266",West Des Moines,-93.7441981,41.5991771,"Seafood, Sushi",40,Dollar($),3,4.2,Very Good,530
+173,17342816,Burnt Toast Cafe,216,Dubuque,"1220 Iowa St, Dubuque, IA 52001",Dubuque,-90.667668,42.504759,Breakfast,10,Dollar($),1,3.4,Average,33
+174,17342498,Catfish Charlie's,216,Dubuque,"1630 E 16th St, Dubuque, IA 52001",Dubuque,-90.6499328,42.5124724,Seafood,25,Dollar($),2,3.3,Average,40
+175,17342648,Salsa's Mexican Restaurant,216,Dubuque,"1091 Main St, Dubuque, IA 52001",Dubuque,-90.6684746,42.5032004,Mexican,10,Dollar($),1,3.4,Average,153
+176,17342781,Tony Roma's,216,Dubuque,"350 Bell St, Dubuque, IA 52001",Dubuque,-90.658609,42.496464,"American, BBQ, Seafood",25,Dollar($),2,3.3,Average,65
+177,17342799,Vinny Vanucchi's,216,Dubuque,"180 Main Street, Dubuque, IA 52001",Dubuque,-90.664029,42.495689,Italian,25,Dollar($),2,3.4,Average,58
+178,17342772,Champps Americana,216,Dubuque,"3100 Dodge St., Dubuque, IA 52003",Dubuque,-90.715247,42.492018,"American, Burger, Sandwich",25,Dollar($),2,3.5,Good,100
+179,17342771,Fiesta Cancun,216,Dubuque,"2515 NW Arterial, Dubuque, IA 52002",Dubuque,-90.740213,42.49092,Mexican,10,Dollar($),1,3.6,Good,156
+180,17342556,Houlihan's,216,Dubuque,"1795 Greyhound Park Rd, Dubuque, IA 52001",Dubuque,-90.645294,42.516621,"American, Burger",25,Dollar($),2,3.6,Good,117
+181,17342811,Ichiban Hibachi Steakhouse & Sushi Bar,216,Dubuque,"3187 University Ave, Dubuque, IA 52001",Dubuque,-90.712084,42.492963,"Japanese, Steak, Sushi",40,Dollar($),3,3.7,Good,83
+182,17342576,Kalmes Breaktime Bar & Grill,216,Dubuque,"1097 Jackson St, Dubuque, IA 52001",Dubuque,-90.6646,42.5043,"American, Burger",25,Dollar($),2,3.6,Good,48
+183,17342770,L. May Eatery,216,Dubuque,"1072 Main St, Dubuque, IA 52001",Dubuque,-90.668164,42.503075,"International, Pizza",40,Dollar($),3,3.8,Good,198
+184,17342585,Los Aztecas,216,Dubuque,"2700 Dodge St, Dubuque, IA 52003",Dubuque,-90.7055,42.4916,Mexican,10,Dollar($),1,3.5,Good,126
+185,17342494,Manna Java World Cafe,216,Dubuque,"700 Locust St, Dubuque, IA 52001",Dubuque,-90.6677349,42.500191,"Breakfast, Pizza",10,Dollar($),1,3.5,Good,119
+186,17342594,Mario's Italian Restaurant,216,Dubuque,"1298 Main St, Dubuque, IA 52001",Dubuque,-90.6691,42.5048,"American, Italian",25,Dollar($),2,3.6,Good,140
+187,17342625,Pepper Sprout Incorporated,216,Dubuque,"378 Main St, Dubuque, IA 52001",Dubuque,-90.6651,42.4974,American,40,Dollar($),3,3.6,Good,159
+188,17342652,Shot Tower Inn,216,Dubuque,"290 Locust St, Dubuque, IA 52001",Dubuque,-90.6658,42.4963,"Italian, Pizza",25,Dollar($),2,3.6,Good,131
+189,17342665,Sunshine Family Restaurant,216,Dubuque,"401 Central Ave, Dubuque, IA 52001",Dubuque,-90.663686,42.4982789,"American, Breakfast, Burger",10,Dollar($),1,3.5,Good,60
+190,17342810,Watershed Cafe,216,Dubuque,"51 W 32nd Street, Dubuque, IA 52001",Dubuque,-90.684882,42.527556,"American, Burger, Pizza, Cafe",25,Dollar($),2,3.7,Good,89
+191,17342775,Woodfire Grille,216,Dubuque,"301 Bell Street, Dubuque, IA 52001",Dubuque,-90.658988,42.496378,"American, Seafood, Steak",70,Dollar($),4,3.6,Good,72
+192,17536645,Jehova es Mi Pastor Tacos y Burritos,216,Fernley,"135 W. Main Street, Fernley, NV 89408",Fernley,-119.252694,39.607515,Mexican,10,Dollar($),1,3.7,Good,83
+193,17374405,Houndstooth Grill & Tavern,216,Gainesville,"6323 Grand Hickory Dr Ste 200A, Braselton, GA 30517",Braselton,-83.8461,34.0901,"American, Sandwich, Seafood",25,Dollar($),2,4.4,Very Good,239
+194,17375060,Hawg Wild BBQ & Catfish House,216,Gainesville,"515 Grant Street, Clarkesville, GA 30523",Clarkesville,-83.520693,34.61802,"BBQ, Burger, Seafood",10,Dollar($),1,4.1,Very Good,235
+195,17375164,Bourbon Street Grille,216,Gainesville,"90 Public Sq N, Dahlonega, GA 30533",Dahlonega,-83.985353,34.532973,"American, Burger, Cajun",25,Dollar($),2,3.8,Good,88
+196,17375078,Smokin Gold BBQ,216,Gainesville,"59 E Main St, Dahlonega, GA 30533",Dahlonega,-83.983939,34.533626,BBQ,10,Dollar($),1,3.9,Good,133
+197,17375049,Hoka-Hoka Japanese Steak & Sushi,216,Gainesville,"617 North Grove Street, Dahlonega, GA 30533",Dahlonega,-83.989317,34.541044,"Chinese, Japanese, Thai",10,Dollar($),1,4.4,Very Good,267
+198,17375077,Shenanigan's Irish Pub,216,Gainesville,"87 N. Chestatee St., Dahlonega, GA 30533",Dahlonega,-83.986119,34.533198,"Bar Food, Seafood, Vegetarian",25,Dollar($),2,4.1,Very Good,171
+199,17375141,Fish Tales Lakeside Grille,216,Gainesville,"6330 Mitchell Street, Flowery Branch, GA 30542",Flowery Branch,-83.938024,34.183573,Seafood,25,Dollar($),2,3.8,Good,107
+200,17375198,Antebellum,216,Gainesville,"5510 Church Street, Flowery Branch, GA 30542",Flowery Branch,-83.926217,34.185707,"American, Southern",40,Dollar($),3,4.3,Very Good,164
+201,17375180,Moonie's Texas Barbecue,216,Gainesville,"5545 Atlanta Highway, Flowery Branch, GA 30542",Flowery Branch,-83.927794,34.180043,"BBQ, Sandwich",10,Dollar($),1,4.1,Very Good,182
+202,17375072,Atlanta Highway Seafood Market,216,Gainesville,"227 Atlanta Highway Suite 900, Gainesville, GA 30501",Gainesville,-83.838457,34.285102,"Sandwich, Seafood, Cajun",25,Dollar($),2,4.9,Excellent,681
+203,17375047,Eat at Thai,216,Gainesville,"975 Dawsonville Hwy, Gainesville, GA 30501",Gainesville,-83.857993,34.300182,Thai,10,Dollar($),1,4.6,Excellent,357
+204,17375074,Smoke House BBQ and Catering,216,Gainesville,"3205 Atlanta Hwy, Atlanta Highway, Gainesville, GA, Gainesville, GA 30507",Gainesville,-83.860098,34.222755,BBQ,25,Dollar($),2,3.8,Good,89
+205,17374921,2 Dog,216,Gainesville,"317 Spring St SE, Gainesville, GA 30501",Gainesville,-83.824023,34.300567,"American, European, Sandwich",25,Dollar($),2,4.2,Very Good,350
+206,17374819,Longstreet Cafe,216,Gainesville,"1043 Riverside Terrace, Gainesville, GA 30501",Gainesville,-83.8272,34.3166,Southern,10,Dollar($),1,4.3,Very Good,298
+207,17375089,Re-Cess,216,Gainesville,"118 Bradford St NE, Gainesville, GA 30501",Gainesville,-83.82686,34.300332,"American, Southern",25,Dollar($),2,4.2,Very Good,319
+208,17375214,Bodensee,216,Gainesville,"64 Munich Strasse, Helen, GA 30545",Helen,-83.727741,34.701594,German,40,Dollar($),3,3.8,Good,114
+209,17374951,Hofer's Bakery & Cafe,216,Gainesville,"8758 N Main St, Helen, GA 30545",Helen,-83.7345,34.7024,"German, Ice Cream",10,Dollar($),1,3.9,Good,136
+210,17374978,Troll Tavern,216,Gainesville,"8590 N Main St Ste B, Helen, GA 30545",Helen,-83.7334,34.7021,"Burger, German, Sandwich",25,Dollar($),2,2.2,Poor,108
+211,17375104,The Nacoochee Village Tavern & Pizzeria,216,Gainesville,"7275 S Main St., Helen, GA 30545",Helen,-83.713498,34.691208,"Italian, Pizza, Sandwich",10,Dollar($),1,4.0,Very Good,161
+212,17557488,Burger Queen Drive In,216,Lakeview,"109 S F St, Lakeview, OR 97630",Lakeview,-120.3458,42.1885,"Burger, Desserts, Sandwich",10,Dollar($),1,3.6,Good,41
+213,17452342,Blue Orchid Thai Restaurant,216,Lincoln,"129 N 10th St, Lincoln, NE 68508",Haymarket,-96.7072,40.8143,Thai,25,Dollar($),2,4.5,Excellent,799
+214,17501291,Emilio's Cuban Cafe,216,Macon,"402 Ga. Highway 247, Bonaire, GA 31005",Bonaire,-83.594494,32.567741,"Coffee and Tea, Cuban, Latin American",25,Dollar($),2,3.9,Good,146
+215,17500759,Ingleside Village Pizza,216,Macon,"2395 Ingleside Ave, Macon, GA 31204",Macon,-83.657061,32.853896,"Pizza, Sandwich",10,Dollar($),1,4.9,Excellent,478
+216,17500767,Jim Shaw's Seafood Grill & Bar,216,Macon,"3040 Vineville Ave, Macon, GA 31204",Macon,-83.6737,32.8496,Seafood,25,Dollar($),2,4.6,Excellent,467
+217,17500819,Mandarin Chinese Restaurant,216,Macon,"3086 Riverside Dr, Macon, GA 31210",Macon,-83.6766,32.8899,"Chinese, Thai",25,Dollar($),2,4.5,Excellent,302
+218,17500911,Rookery,216,Macon,"543 Cherry St, Macon, GA 31201",Macon,-83.6279,32.8361,"Burger, Desserts, Bar Food",25,Dollar($),2,4.5,Excellent,289
+219,17501279,Bonefish Grill,216,Macon,"5080 Riverside Dr, Macon, GA 31210",Macon,-83.713978,32.929278,"American, Seafood",40,Dollar($),3,4.1,Very Good,293
+220,17500695,Downtown Grill,216,Macon,"562 Mulberry St, Macon, GA 31201",Macon,-83.6276,32.8375,Steak,70,Dollar($),4,4.0,Very Good,195
+221,17501298,Greek Corner Deli,216,Macon,"587 Cherry St, Macon, GA 31201",Macon,-83.628703,32.83654,"Desserts, Greek, Sandwich",10,Dollar($),1,4.3,Very Good,244
+222,17500847,Natalia's,216,Macon,"201 North Macon St., Macon, GA 31210",Macon,-83.787993,32.928495,"European, Italian, Mediterranean",70,Dollar($),4,4.2,Very Good,379
+223,17500872,Papouli's Mediterranean Cafe & Market,216,Macon,"121 Tom Hill Sr Blvd, Macon, GA 31210",Macon,-83.6873,32.901,"Greek, Mediterranean, Vegetarian",10,Dollar($),1,4.2,Very Good,223
+224,17501315,Benson's Steak and Sushi,216,Macon,"1289 S Houston Lake Rd, Warner Robins, GA 31088",Warner Robins,-83.662421,32.556873,"American, Chinese, Sushi",25,Dollar($),2,3.7,Good,243
+225,17501201,My Fathers Place,216,Macon,"2507 Moody Rd, Warner Robins, GA 31088",Warner Robins,-83.624,32.5786,Italian,25,Dollar($),2,3.7,Good,104
+226,17501247,Sushi Thai Restaurant,216,Macon,"2624 Watson Blvd Ste D, Warner Robins, GA 31093",Warner Robins,-83.6665,32.6184,"Japanese, Sushi, Thai",10,Dollar($),1,3.7,Good,153
+227,17501281,The Mellow Mushroom,216,Macon,"710 Lake Joy Road, Warner Robins, GA 31088",Warner Robins,-83.691044,32.552684,"Pizza, Sandwich, Vegetarian",25,Dollar($),2,3.8,Good,323
+228,17501143,El Jalisciense Mexican Restaurant,216,Macon,"1224 Russell Pkwy, Warner Robins, GA 31088",Warner Robins,-83.64935,32.594666,Mexican,10,Dollar($),1,4.1,Very Good,181
+229,17501292,Greek Village,216,Macon,"1801 Watson Blvd, Warner Robins, GA 31093",Warner Robins,-83.636618,32.6176839,"American, Greek, Seafood",25,Dollar($),2,4.0,Very Good,316
+230,17501308,Martin's BBQ,216,Macon,"102 S Armed Forces Boulevard, Warner Robins, GA 31088",Warner Robins,-83.600201,32.619321,BBQ,25,Dollar($),2,4.2,Very Good,288
+231,17501301,Thai Pepper,216,Macon,"1806 Russell Parkway, Warner Robins, GA 31088",Warner Robins,-83.665557,32.593264,"Japanese, Sushi, Thai",10,Dollar($),1,4.0,Very Good,232
+232,17501268,Zen Japanese Steakhouse and Sushi Bar,216,Macon,"4086 Watson Blvd, Warner Robins, GA 31093",Warner Robins,-83.7184,32.6147,"Japanese, Steak, Sushi",40,Dollar($),3,4.1,Very Good,314
+233,17482142,Triangle Restaurant,216,Mc Millan,"21053 State Hwy M28, Mc Millan, MI 49853",Mc Millan,-85.7363,46.3718,"Breakfast, Burger",10,Dollar($),1,2.4,Poor,17
+234,17687832,Vince's Restaurant & Pizzeria,216,Monroe,"619 4th Ave, Monroe, WI 53566",Monroe,-89.653487,42.606306,"Italian, Pizza",25,Dollar($),2,3.6,Good,65
+235,17534788,The Artesian Restaurant,216,Ojo Caliente,"Ojo Caliente Mineral Springs Resort And Spa 50 Los Banos Rd, Ojo Caliente, NM 87549",Ojo Caliente,-106.057666,36.313638,"American, International, Southwestern",40,Dollar($),3,3.6,Good,30
+236,17061237,Ceví_che Tapas Bar & Restaurant,216,Orlando,"125 West Church Street, Orlando, FL 32801",Church Street District,-81.381077,28.540432,"Spanish, Tapas",40,Dollar($),3,4.4,Very Good,981
+237,17057397,'Ohana,216,Orlando,"1600 Seven Seas Drive, Lake Buena Vista, FL 32830",Disney World Area,-81.585226,28.405437,Hawaiian,45,Dollar($),3,4.5,Excellent,1151
+238,17058534,Earl of Sandwich,216,Orlando,"1750 E Buena Vista Drive, Lake Buena Vista, FL 32830",Disney: Downtown Disney,-81.514608,28.372858,"American, Sandwich, Salad",35,Dollar($),3,4.7,Excellent,1341
+239,17060320,Raglan Road Irish Pub and Restaurant,216,Orlando,"1640 E Buena Vista Drive, Lake Buena Vista, FL 32830",Disney: Downtown Disney,-81.517725,28.371338,Irish,50,Dollar($),4,4.3,Very Good,782
+240,17057925,Cafí© Tu Tu Tango,216,Orlando,"8625 International Drive, Orlando, FL 32819",I-Drive/Universal,-81.469986,28.440344,"New American, Tapas",40,Dollar($),3,4.6,Excellent,1293
+241,17060869,Texas de Brazil,216,Orlando,"5259 International Drive, Orlando, FL 32819",I-Drive/Universal,-81.4510725,28.4676808,"Brazilian, Steak",100,Dollar($),4,4.6,Excellent,2324
+242,17057591,Bahama Breeze Island Grille,216,Orlando,"8849 International Drive, Orlando, FL 32819",I-Drive/Universal,-81.471526,28.437065,Caribbean,45,Dollar($),3,4.3,Very Good,910
+243,17059541,Maggiano's Little Italy,216,Orlando,"9101 International Drive,Orlando, FL 32819",I-Drive/Universal,-81.471447,28.433235,Italian,50,Dollar($),4,4.4,Very Good,886
+244,17064266,Hawkers Asian Street Fare,216,Orlando,"1103 N Mills Avenue, Orlando, FL 32803",Mills 50,-81.364347,28.560505,"Asian, Thai",35,Dollar($),3,4.6,Excellent,1293
+245,17064405,Tako Cheena by Pom Pom,216,Orlando,"932 North Mills Avenue, Orlando, FL 32803",Mills 50,-81.364547,28.557845,"Asian, Latin American, Vegetarian",10,Dollar($),1,4.4,Very Good,570
+246,17060516,Seasons 52 Fresh Grill,216,Orlando,"7700 West Sand Lake Road, Orlando, FL 32819",Restaurant Row,-81.487978,28.448175,American,60,Dollar($),4,4.4,Very Good,1685
+247,17059012,Hollerbach's Willow Tree Cafí©,216,Orlando,"205 East 1st Street, Sanford, FL 32771",Sanford,-81.266871,28.811653,German,40,Dollar($),3,4.8,Excellent,1699
+248,17061296,Pom Pom's Teahouse and Sandwicheria,216,Orlando,"67 North Bumby Avenue, Orlando, FL 32803",The Milk District,-81.351467,28.543571,"American, Sandwich, Tea",25,Dollar($),2,4.9,Excellent,1457
+249,17061205,Yellow Dog Eats,216,Orlando,"1236 Hempel Avenue,Gotha, FL 34786",Windermere,-81.522987,28.527592,"American, BBQ, Sandwich",35,Dollar($),3,4.9,Excellent,1252
+250,17064031,Tibby's New Orleans Kitchen,216,Orlando,"2203 Aloma Avenue, Winter Park, FL 32792",Winter Park,-81.322631,28.601088,Cajun,25,Dollar($),2,4.7,Excellent,1412
+251,17066603,The Coop,216,Orlando,"610 W Morse Boulevard, Winter Park, FL 32789",Winter Park,-81.357219,28.597366,"Southern, Cajun, Soul Food",25,Dollar($),2,3.6,Good,432
+252,17057797,Bosphorous Turkish Cuisine,216,Orlando,"108 S Park Ave, Winter Park, FL 32789",Winter Park,-81.3508344,28.5976271,"Mediterranean, Turkish",40,Dollar($),3,4.2,Very Good,568
+253,17061253,Ethos Vegan Kitchen,216,Orlando,"601-B South New York Avenue, Winter Park, FL 32789",Winter Park,-81.352921,28.592857,"American, Breakfast, Vegetarian",25,Dollar($),2,4.4,Very Good,797
+254,17061231,The Ravenous Pig,216,Orlando,"565 W Fairbanks Avenue, Winter Park, FL 32789",Winter Park,-81.356024,28.593297,Pub Food,40,Dollar($),3,4.4,Very Good,1998
+255,17580453,Cactus Flower Cafe Navarre,216,Pensacola,"8725 Ortega Park Dr, Navarre, FL 32566",Navarre,-86.8573393,30.4025979,"Mexican, Southwestern, Tex-Mex",25,Dollar($),2,4.2,Very Good,635
+256,17580142,McGuire's Irish Pub & Brewery,216,Pensacola,"600 E Gregory Street, Pensacola, FL 32502",Pensacola,-87.2027,30.4179,"Burger, Bar Food, Steak",40,Dollar($),3,4.9,Excellent,2238
+257,17580160,New Yorker Deli & Pizzeria,216,Pensacola,"3001 E Cervantes St, Pensacola, FL 32503",Pensacola,-87.1819,30.4251,"Italian, Pizza, Sandwich",10,Dollar($),1,4.6,Excellent,792
+258,17580349,Tu-Do Vietnamese Restaurant,216,Pensacola,"7130 N Davis Hwy, Pensacola, FL 32504",Pensacola,-87.2216,30.4982,"Asian, Vietnamese",10,Dollar($),1,4.5,Excellent,828
+259,17580412,Carrabba's Italian Grill,216,Pensacola,"311 N 9th Avenue, Pensacola, FL 32502",Pensacola,-87.205855,30.417318,"Italian, Pizza, Seafood",40,Dollar($),3,3.7,Good,292
+260,17580590,Jaco's Bayfront Bar and Grille,216,Pensacola,"997 South Palafox, Pensacola, FL 32502",Pensacola,-87.213274,30.403034,Tapas,25,Dollar($),2,3.9,Good,502
+261,17580704,The Tin Cow,216,Pensacola,"102 S Palafox Pl, Pensacola, FL",Pensacola,-87.2150874,30.4116106,"Burger, Bar Food",25,Dollar($),2,3.7,Good,559
+262,17579928,Cactus Flower Cafe,216,Pensacola,"3425 N 12th Ave, Pensacola, FL 32503",Pensacola,-87.2080932,30.4473322,"Latin American, Mexican, Southwestern",25,Dollar($),2,4.2,Very Good,1268
+263,17579992,Dharma Blue,216,Pensacola,"300 S Alcaniz Street, Pensacola, FL 32502",Pensacola,-87.2092,30.4101,"Seafood, Sushi",40,Dollar($),3,4.1,Very Good,669
+264,17580030,Global Grill,216,Pensacola,"27 South Palafox Pl, Pensacola, FL 32501",Pensacola,-87.2153054,30.411878,"European, International, Tapas",40,Dollar($),3,4.4,Very Good,900
+265,17580074,Ichiban,216,Pensacola,"5555 N Davis Hwy Ste I, Pensacola, FL 32503",Pensacola,-87.2252,30.4767,"Japanese, Sushi",25,Dollar($),2,4.3,Very Good,765
+266,17580020,The Fish House,216,Pensacola,"600 S Barracks St, Pensacola, FL 32502",Pensacola,-87.211082,30.407358,"American, Seafood, Sushi",40,Dollar($),3,4.0,Very Good,1270
+267,17580350,Tuscan Oven,216,Pensacola,"4801 N 9th Ave, Pensacola, FL 32503",Pensacola,-87.214,30.4692,"Italian, Mediterranean, Pizza",25,Dollar($),2,4.1,Very Good,502
+268,17580408,Flounders Chowder House,216,Pensacola,"800 Quietwater Beach Rd, Pensacola Beach, FL 32561",Pensacola Beach,-87.143,30.3359,Seafood,40,Dollar($),3,3.9,Good,724
+269,17579653,Hemingway's Island Grill,216,Pensacola,"400 Quietwater Beach Rd, Pensacola Beach, FL 32561",Pensacola Beach,-87.142602,30.335521,"Caribbean, Seafood, Steak",40,Dollar($),3,3.5,Good,479
+270,17580476,Native Cafe,216,Pensacola,"45 A Via De Luna Dr, Pensacola Beach, FL 32561",Pensacola Beach,-87.132932,30.334776,"Breakfast, Burger",25,Dollar($),2,4.2,Very Good,591
+271,17580422,Peg Leg Pete's,216,Pensacola,"1010 Fort Pickens Rd, Pensacola Beach, FL 32561",Pensacola Beach,-87.164376,30.327864,"Burger, Sandwich, Seafood",40,Dollar($),3,4.4,Very Good,1408
+272,17580539,The Grand Marlin,216,Pensacola,"400 Pensacola Beach Boulevard, Pensacola Beach, FL 32561",Pensacola Beach,-87.149178,30.34262,"Caribbean, Seafood",40,Dollar($),3,4.3,Very Good,905
+273,17580511,Original Georgios Authentic Greek Food,216,Pensacola,"13310 Merilla Street, Pensacola, FL 32507",Perdido Key,-87.4218962,30.3199824,Greek,10,Dollar($),1,4.7,Excellent,816
+274,17580021,Fisherman's Corner,216,Pensacola,"13486 Perdido Key Dr, Pensacola, FL 32507",Perdido Key,-87.427707,30.308468,"Sandwich, Seafood, Cajun",40,Dollar($),3,4.4,Very Good,747
+275,17582467,Rupes Burgers,216,Pocatello,"302 NE Main St, Blackfoot, ID 83221",Blackfoot,-112.3415,43.1903,"Burger, Fast Food",10,Dollar($),1,3.7,Good,104
+276,17582668,Texas Roadhouse,216,Pocatello,"560 Bullock Street, Pocatello, ID 83202",Chubbuck,-112.461326,42.910518,"American, BBQ, Steak",45,Dollar($),3,3.5,Good,83
+277,17582498,Riverwalk Cafe,216,Pocatello,"695 E Main St, Lava Hot Springs, ID 83246",Lava Hot Springs,-112.0132,42.62,"Asian, Thai",10,Dollar($),1,3.6,Good,91
+278,17582522,Buddy's Italian Restaurant,216,Pocatello,"626 E Lewis St, Pocatello, ID 83201",Pocatello,-112.4423,42.8661,"Italian, Pizza, Sandwich",40,Dollar($),3,3.7,Good,222
+279,17582524,Butterburrs,216,Pocatello,"917 Yellowstone Avenue, Pocatello, ID 83201",Pocatello,-112.4516,42.8919,"American, Breakfast",30,Dollar($),3,3.6,Good,121
+280,17582527,Chang Garden,216,Pocatello,"1000 Pocatello Creek Rd Ste W2, Pocatello, ID 83201",Pocatello,-112.441,42.8928,Chinese,10,Dollar($),1,3.5,Good,93
+281,17582551,Fifth Street Bagelry,216,Pocatello,"559 S 5TH Ave, Pocatello, ID 83201",Pocatello,-112.4397,42.8631,"Coffee and Tea, Sandwich",10,Dollar($),1,3.8,Good,136
+282,17582558,Goody's Deli,216,Pocatello,"905 S 5th Ave, Pocatello, ID 83201",Pocatello,-112.4365,42.8604,"Pizza, Sandwich",10,Dollar($),1,3.8,Good,160
+283,17582560,Grecian Key Restaurant,216,Pocatello,"314 N Main St, Pocatello, ID 83204",Pocatello,-112.4524,42.8639,"American, Greek",25,Dollar($),2,3.7,Good,152
+284,17582677,Outer Limits Fun Zone,216,Pocatello,"1800 Garrett Way, Pocatello, ID 83201",Pocatello,-112.459988,42.878077,"Burger, Pizza, Sandwich",10,Dollar($),1,3.5,Good,57
+285,17582670,Portneuf Valley Brewing,216,Pocatello,"615 South 1st Avenue, ID 83201",Pocatello,-112.443213,42.860024,"American, Pizza",25,Dollar($),2,3.7,Good,191
+286,17582625,Sandpiper Restaurant & Lounge,216,Pocatello,"1400 Bench Rd, Pocatello, ID 83201",Pocatello,-112.432,42.9012,"American, Seafood, Steak",40,Dollar($),3,3.6,Good,85
+287,17582700,Sushi Family,216,Pocatello,"415 Yellowstone Ave, Pocatello, ID 83201",Pocatello,-112.452013,42.88245,"Asian, Sushi, Vegetarian",25,Dollar($),2,3.6,Good,132
+288,17582664,Taste of India Nepal,216,Pocatello,"330 N Main Street, Pocatello, ID 83204",Pocatello,-112.45253,42.863969,"Indian, International, Vegetarian",25,Dollar($),2,3.8,Good,141
+289,17582682,Thai Paradise,216,Pocatello,"140 S. Main, Pocatello, ID 83204",Pocatello,-112.450106,42.861871,"Desserts, Thai",25,Dollar($),2,3.7,Good,162
+290,17582669,The Bridge,216,Pocatello,"815 S 1st Street, Pocatello, ID 83201",Pocatello,-112.4413856,42.8585987,New American,40,Dollar($),3,3.6,Good,144
+291,17582546,El Herradero,216,Pocatello,"123 Jefferson Ave, Pocatello, ID 83201",Pocatello,-112.4419,42.8774,Mexican,10,Dollar($),1,4.1,Very Good,365
+292,17629582,Barrett Junction Cafe,216,Potrero,"1020 Barrett Lake Rd, Dulzura, CA 91917",Potrero,-116.704731,32.613431,"American, BBQ, Burger",25,Dollar($),2,3.3,Average,9
+293,17211719,Blue Point Grill,216,Princeton,"258 Nassau St, Princeton, NJ 08542",Princeton,-74.651139,40.352385,Seafood,70,Dollar($),4,4.0,Very Good,542
+294,17144717,Giovanni's Shrimp Truck,216,Rest of Hawaii,"56-505 Kamehameha Hwy, Kahuku, HI 96731",Kahuku,-157.948486,21.677078,Seafood,25,Dollar($),2,4.5,Excellent,691
+295,17143970,Kona Brewing Company,216,Rest of Hawaii,"75-5629 Kuakini Highway, Kailua Kona, HI 96740",Kailua Kona,-155.997362,19.642752,"American, Pizza, Bar Food",35,Dollar($),3,4.7,Excellent,764
+296,17144991,Coconuts Fish Cafe,216,Rest of Hawaii,"1279 S Kihei Road, Kihei, HI 96753",Kihei,-156.455284,20.748838,Seafood,30,Dollar($),3,4.5,Excellent,487
+297,17142519,Kihei Caffe,216,Rest of Hawaii,"1945 S Kihei Road, Kihei, HI 96753",Kihei,-156.451847,20.731487,"American, Hawaiian",10,Dollar($),1,4.5,Excellent,695
+298,17145408,Monkeypod Kitchen by Merriman,216,Rest of Hawaii,"10 Wailea Gateway Place, Unit B-201 Kihei, Hawaii, HI 96753",Kihei,-156.4309473,20.6883746,Burger,40,Dollar($),3,4.2,Very Good,485
+299,17143336,Sansei Seafood Restaurant & Sushi Bar,216,Rest of Hawaii,"1881 S Kihei Rd, Kihei, HI 96753",Kihei,-156.452556,20.733554,"Japanese, Seafood, Sushi",40,Dollar($),3,4.2,Very Good,807
+300,17145077,Star Noodle,216,Rest of Hawaii,"286 Kupuohi St, Lahaina, HI 96761",Lahaina,-156.674835,20.885226,Asian,10,Dollar($),1,4.6,Excellent,723
+301,17141447,Aloha Mixed Plate,216,Rest of Hawaii,"1285 Front St, Lahaina, HI 96761",Lahaina,-156.684967,20.886564,"Asian, Breakfast, Hawaiian",10,Dollar($),1,4.2,Very Good,874
+302,17142096,Gazebo,216,Rest of Hawaii,"5315 Lower Honoapiilani Rd, Lahaina, HI 96761",Lahaina,-156.667037,20.992316,"Breakfast, Burger",25,Dollar($),2,4.4,Very Good,552
+303,17142297,Hula Grill,216,Rest of Hawaii,"2435 Kaanapali Pkwy, Lahaina, HI 96761",Lahaina,-156.693821,20.921347,"Hawaiian, Seafood, Steak",40,Dollar($),3,4.3,Very Good,1056
+304,17142535,Kimo's,216,Rest of Hawaii,"845 Front St, Lahaina, HI 96761",Lahaina,-156.680666,20.876127,"Hawaiian, Seafood, Steak",40,Dollar($),3,4.3,Very Good,707
+305,17142792,Mama's Fish House,216,Rest of Hawaii,"799 Poho Pl, Paia, HI 96779",Paia,-156.366445,20.929622,"Hawaiian, Seafood",70,Dollar($),4,4.9,Excellent,1343
+306,17145495,Marukame Udon,216,Rest of Hawaii,"2310 Kuhio Avenue, Honolulu, HI 96815",Waikiki,-157.825979,21.279476,Japanese,10,Dollar($),1,4.9,Excellent,602
+307,17143950,Yard House,216,Rest of Hawaii,"226 Lewers St, Honolulu, HI 96815",Waikiki,-157.8312476,21.2794952,"American, Asian, Burger",40,Dollar($),3,4.6,Excellent,1078
+308,17142747,Lulu's Waikiki,216,Rest of Hawaii,"2586 Kalakaua Ave, Honolulu, HI 96815",Waikiki,-157.822716,21.271826,American,25,Dollar($),2,3.9,Good,232
+309,17141990,Duke's Waikiki,216,Rest of Hawaii,"2335 Kalakaua Ave, Honolulu, HI 96815",Waikiki,-157.827196,21.277583,"Hawaiian, Seafood, Steak",70,Dollar($),4,4.4,Very Good,1492
+310,17144732,Eggs 'n Things,216,Rest of Hawaii,"343 Saratoga Road, Honolulu, HI 96815",Waikiki,-157.831538,21.280663,Breakfast,10,Dollar($),1,4.0,Very Good,535
+311,17143282,Roy's,216,Rest of Hawaii,"226 Lewers St, Honolulu, HI 96815",Waikiki,-157.831176,21.279154,"Asian, European, Seafood",70,Dollar($),4,4.2,Very Good,531
+312,17143705,Wailana Coffee House,216,Rest of Hawaii,"1860 Ala Moana Blvd, Honolulu, HI 96815",Waikiki,-157.836031,21.285396,"American, Breakfast, Hawaiian",25,Dollar($),2,4.2,Very Good,694
+313,17615915,The Lady & Sons,216,Savannah,"102 W Congress St, Savannah, GA 31401",Savannah,-81.0954,32.0804,Southern,40,Dollar($),3,3.3,Average,1201
+314,17616487,Green Truck Pub,216,Savannah,"2430 Habersham Street, Savannah, GA 31401",Savannah,-81.096647,32.052858,Burger,40,Dollar($),3,4.7,Excellent,906
+315,17615924,Leopold's Ice Cream,216,Savannah,"212 E Broughton Street, Savannah, GA 31401",Savannah,-81.0894,32.0785,"Desserts, Sandwich, Ice Cream",10,Dollar($),1,4.6,Excellent,880
+316,17615979,Mrs. Wilkes' Dining Room,216,Savannah,"107 W Jones St, Savannah, GA 31401",Savannah,-81.0955,32.0727,"American, Southern",40,Dollar($),3,4.5,Excellent,1014
+317,17616266,Zunzi's,216,Savannah,"108 E York Street, Savannah, GA 31401",Savannah,-81.0911,32.0775,"International, Mediterranean, Sandwich",25,Dollar($),2,4.5,Excellent,796
+318,17615976,Moon River Brewing Company,216,Savannah,"21 W Bay St, Savannah, GA 31401",Savannah,-81.0916,32.0809,"American, Bar Food, Sandwich",25,Dollar($),2,3.7,Good,747
+319,17616025,Pirates' House Restaurant,216,Savannah,"20 E Broad St, Savannah, GA 31401",Savannah,-81.0844,32.0782,"American, Seafood, Steak",40,Dollar($),3,3.8,Good,566
+320,17615597,B. Matthew's Eatery,216,Savannah,"325 E Bay St, Savannah, GA 31401",Savannah,-81.0875,32.0798,"American, Breakfast",25,Dollar($),2,4.1,Very Good,683
+321,17615740,Crystal Beer Parlor,216,Savannah,"301 W Jones St, Savannah, GA 31401",Savannah,-81.0979,32.0735,"American, Bar Food",25,Dollar($),2,4.4,Very Good,690
+322,17616203,Goose Feathers Cafe and Bakery,216,Savannah,"39 Barnard St, Savannah, GA 31401",Savannah,-81.0941,32.0801,"Breakfast, Vegetarian",10,Dollar($),1,4.2,Very Good,680
+323,17616590,Henry's,216,Savannah,"28 Drayton St, Savannah, GA 31401",Savannah,-81.0905213,32.0794767,"American, Breakfast",10,Dollar($),1,4.1,Very Good,287
+324,17615855,Huey's On The River,216,Savannah,"115 E River St, Savannah, GA 31401",Savannah,-81.0897,32.0812,"Breakfast, Cajun",40,Dollar($),3,4.1,Very Good,802
+325,17616348,J. Christopher's,216,Savannah,"122 E. Liberty, Savannah, GA 31401",Savannah,-81.091482,32.074495,"Breakfast, Diner, Sandwich",25,Dollar($),2,4.3,Very Good,710
+326,17616368,Lulu's Chocolate Bar,216,Savannah,"42 MLK Jr. Blvd, Savannah, GA 31401",Savannah,-81.097051,32.080742,"Coffee and Tea, Desserts",10,Dollar($),1,4.3,Very Good,456
+327,17616400,Rocks on the River,216,Savannah,"102 West Bay St., Savannah, GA 31401",Savannah,-81.092484,32.081394,"Pizza, Seafood, Steak",70,Dollar($),4,4.0,Very Good,687
+328,17616076,SOHO South Cafe,216,Savannah,"12 W Liberty St, Savannah, GA 31401",Savannah,-81.0939,32.0747,"Cafe, Sandwich, Southern",25,Dollar($),2,4.3,Very Good,719
+329,17616205,The Olde Pink House,216,Savannah,"23 Abercorn St, Savannah, GA 31401",Savannah,-81.0897,32.0798,"American, Seafood, Southern",70,Dollar($),4,4.4,Very Good,1803
+330,17616222,Vic's On The River,216,Savannah,"26 E Bay St, Savannah, GA 31401",Savannah,-81.0908,32.0809,American,70,Dollar($),4,4.1,Very Good,558
+331,17616295,The Crab Shack,216,Savannah,"40 Estill Hammock Rd, Tybee Island, GA 31328",Tybee Island,-80.865909,32.011689,Seafood,40,Dollar($),3,3.8,Good,883
+332,17621616,Archie's Waeside,216,Sioux City,"224 4th Ave NE, Le Mars, IA 51031",Le Mars,-96.1608,42.7956,"Burger, Seafood, Steak",40,Dollar($),3,3.7,Good,100
+333,17621696,Bob Roe's Pizza,216,Sioux City,"2320 Transit Ave, Sioux City, IA 51106",Sioux City,-96.379,42.4765,"American, Pizza, Bar Food",10,Dollar($),1,3.6,Good,92
+334,17621744,Da Kao Restaurant,216,Sioux City,"800 W 7th St, Sioux City, IA 51103",Sioux City,-96.4173,42.5026,"Asian, Vegetarian, Vietnamese",10,Dollar($),1,3.8,Good,182
+335,17621759,Famous Dave's,216,Sioux City,"201 Pierce St, Sioux City, IA 51101",Sioux City,-96.4051,42.492,BBQ,10,Dollar($),1,3.6,Good,76
+336,17621763,Fuji Bay Japanese Restaurant,216,Sioux City,"513 6th St, Sioux City, IA 51101",Sioux City,-96.4046,42.4965,"Japanese, Sushi",40,Dollar($),3,3.7,Good,129
+337,17621780,HuHot Mongolian Grill,216,Sioux City,"4229 S Lakeport St, Sioux City, IA 51106",Sioux City,-96.3479,42.4391,"Asian, Chinese",25,Dollar($),2,3.6,Good,94
+338,17621781,Hunan Palace,216,Sioux City,"3523 Singing Hills Blvd, Sioux City, IA 51106",Sioux City,-96.362,42.4375,Chinese,25,Dollar($),2,3.8,Good,129
+339,17621788,Jerry's Pizza,216,Sioux City,"1417 Morningside Ave, Sioux City, IA 51106",Sioux City,-96.3596,42.4764,Pizza,25,Dollar($),2,3.8,Good,178
+340,17621793,Jim's Burgers,216,Sioux City,"800 Pierce St, Sioux City, IA 51101",Sioux City,-96.4048,42.4985,Burger,10,Dollar($),1,3.7,Good,97
+341,17621796,Johnnie Mars,216,Sioux City,"2401 5th St, Sioux City, IA 51101",Sioux City,-96.378049,42.495534,"American, Desserts, Diner",10,Dollar($),1,3.9,Good,161
+342,17621831,Miles Inn,216,Sioux City,"2622 Leech Ave, Sioux City, IA 51106",Sioux City,-96.3755,42.4876,American,10,Dollar($),1,3.7,Good,122
+343,17621832,Milwaukee Wiener House,216,Sioux City,"301 Douglas St, Sioux City, IA 51101",Sioux City,-96.4063904,42.4930681,"American, Fast Food",10,Dollar($),1,3.8,Good,195
+344,17621833,Minerva's Food & Cocktails,216,Sioux City,"2945 Hamilton Blvd, Sioux City, IA 51104",Sioux City,-96.418,42.5212,"American, Seafood, Steak",40,Dollar($),3,3.7,Good,146
+345,17621834,Monterrey Mexican Restaurant,216,Sioux City,"3138 Singing Hills Blvd, Sioux City, IA 51106",Sioux City,-96.3691,42.4351,Mexican,10,Dollar($),1,3.7,Good,117
+346,17621869,Rebos,216,Sioux City,"1107 4th St, Sioux City, IA 51101",Sioux City,-96.3959487,42.4944454,"Caribbean, Mexican, Cajun",25,Dollar($),2,3.8,Good,187
+347,17621960,Tokyo Japanese Steakhouse & Sushi Bar,216,Sioux City,"4567 Southern Hills Drive, Sioux City, IA 51106",Sioux City,-96.349464,42.440592,"Japanese, Steak, Sushi",40,Dollar($),3,3.9,Good,239
+348,17621746,Diamond Thai Cuisine,216,Sioux City,"515 W 7th St, Sioux City, IA 51103",Sioux City,-96.4136,42.5011,"Asian, Thai, Vegetarian",10,Dollar($),1,4.0,Very Good,303
+349,17621755,El Fredo Pizza,216,Sioux City,"523 W 19th St, Sioux City, IA 51103",Sioux City,-96.4204,42.5106,Pizza,40,Dollar($),3,4.0,Very Good,280
+350,17621946,Trattoria Fresco,216,Sioux City,"416 Jackson St., Sioux City, IA 51101",Sioux City,-96.4019631,42.4949153,Italian,25,Dollar($),2,4.0,Very Good,271
+351,17621552,Kahill's Steak-Fish Chophouse,216,Sioux City,"385 E 4th St, South Sioux City, IA 68776",South Sioux City,-96.4092028,42.485608,"American, Seafood, Steak",70,Dollar($),4,3.5,Good,58
+352,17096140,Rumba Island Bar & Grill,216,Tampa Bay,"1800 Gulf To Bay Blvd, Clearwater, FL 33765",Clearwater,-82.762624,27.96076,"BBQ, Caribbean, Seafood",25,Dollar($),2,4.6,Excellent,1321
+353,17099925,Red Mesa Cantina,216,Tampa Bay,"128 3rd St S, St Petersburg, FL 33701",Downtown St Petersburg,-82.636924,27.770026,"Latin American, Mexican, Southwestern",25,Dollar($),2,4.6,Excellent,1629
+354,17092257,BellaBrava,216,Tampa Bay,"204 Beach Drive Northeast, St Petersburg, FL 33701",Downtown St Petersburg,-82.6329663,27.7737426,"American, Italian, Seafood",25,Dollar($),2,4.1,Very Good,921
+355,17092799,Ceviche Tapas Bar & Restaurant,216,Tampa Bay,"10 Beach Dr, St Petersburg, FL 33701",Downtown St Petersburg,-82.6333294,27.7711464,"Spanish, Tapas",25,Dollar($),2,4.1,Very Good,986
+356,17095222,The Moon Under Water,216,Tampa Bay,"332 Beach Dr NE, St Petersburg, FL 33701",Downtown St Petersburg,-82.632174,27.775462,"British, Bar Food, Sandwich",25,Dollar($),2,4.1,Very Good,1020
+357,17092293,Bern's Steak House,216,Tampa Bay,"1208 S Howard Ave, Tampa, FL 33606",Hyde Park,-82.482962,27.931516,"American, Desserts, Steak",70,Dollar($),4,4.7,Excellent,3157
+358,17102241,Boca Kitchen Bar Market,216,Tampa Bay,"901 W. Platt St., Tampa, FL 33606",Hyde Park,-82.46887,27.941942,Breakfast,40,Dollar($),3,3.9,Good,665
+359,17102579,Edison: Food+Drink Lab,216,Tampa Bay,"912 W Kennedy Blvd, Tampa, FL 33606",Hyde Park,-82.469306,27.944244,International,70,Dollar($),4,3.9,Good,373
+360,17092801,Ceviche Tapas Bar & Restaurant,216,Tampa Bay,"2500 W Azeele St, Tampa, FL 33609",Hyde Park,-82.4852372,27.9410382,"Breakfast, Spanish, Tapas",25,Dollar($),2,4.4,Very Good,1007
+361,17093273,Daily Eats,216,Tampa Bay,"901 S Howard Avenue, Tampa, FL 33606",Hyde Park,-82.483124,27.935039,"American, Burger",25,Dollar($),2,4.4,Very Good,803
+362,17096198,Salt Rock Grill,216,Tampa Bay,"19325 Gulf Blvd, Indian Shores, FL 33785",Indian Rocks/Indian Shores,-82.843253,27.848357,"American, Seafood, Steak",40,Dollar($),3,4.2,Very Good,1363
+363,17095098,Mazzaro's Italian Market,216,Tampa Bay,"2909 22nd Ave N, St Petersburg, FL 33713",Kenwood,-82.673621,27.792047,"Italian, Deli",10,Dollar($),1,4.9,Excellent,1424
+364,17093135,Conch Republic Grill,216,Tampa Bay,"16699 Gulf Blvd, North Redington Beach, FL 33708",Madeira Beach/Redington Beach,-82.820856,27.816086,"Sandwich, Seafood, Steak",40,Dollar($),3,4.5,Excellent,844
+365,17095236,Mr. Dunderbak's Biergarten and Marketplatz,216,Tampa Bay,"14929 Bruce B Downs Blvd, Tampa, FL 33612",New Tampa,-82.41294,28.082909,"European, German",40,Dollar($),3,4.9,Excellent,1413
+366,17095979,Red Mesa Restaurant,216,Tampa Bay,"4912 4th St N, St Petersburg, FL 33703",Northeast St Petersburg,-82.638843,27.816848,"Breakfast, Mexican",40,Dollar($),3,4.5,Excellent,1203
+367,17099856,Datz,216,Tampa Bay,"2616 S Macdill Avenue, Tampa, FL 33629",Palma Ceia,-82.4932815,27.9219315,"Desserts, Bar Food",40,Dollar($),3,4.7,Excellent,3074
+368,17100307,Ella's Americana Folk Art Cafe,216,Tampa Bay,"5119 N Nebraska Ave, Tampa, FL 33603",Seminole Heights,-82.451041,27.993645,"International, Italian, Southern",40,Dollar($),3,4.8,Excellent,1715
+369,17093600,Taco Bus,216,Tampa Bay,"913 E Hillsborough Ave, Tampa, FL 33604",Seminole Heights,-82.449897,27.995964,"Mexican, Vegetarian",10,Dollar($),1,4.5,Excellent,1868
+370,17100547,The Refinery,216,Tampa Bay,"5137 N. Florida Ave., Tampa, FL 33603",Seminole Heights,-82.459339,27.99384,"Seafood, Steak",40,Dollar($),3,4.0,Very Good,875
+371,17093124,Columbia Restaurant,216,Tampa Bay,"2117 E 7th Ave, Tampa, FL 33605",Ybor City,-82.4351499,27.959884,"Cuban, Spanish",40,Dollar($),3,4.4,Very Good,1746
+372,17678243,Buffalo Wild Wings,216,Valdosta,"1553 Baytree Rd., Valdosta, GA 31602",Valdosta,-83.319123,30.846819,Bar Food,25,Dollar($),2,3.4,Average,98
+373,17678043,El Toreo Mexican Restaurant,216,Valdosta,"1713 Gornto Rd, Valdosta, GA 31601",Valdosta,-83.3247,30.8426,Mexican,25,Dollar($),2,3.1,Average,83
+374,17677978,306 North Restaurant,216,Valdosta,"306 N Patterson St, Valdosta, GA 31601",Valdosta,-83.2799,30.8332,"Seafood, Southern",40,Dollar($),3,3.9,Good,231
+375,17677988,Austins Cattle Co,216,Valdosta,"2101 W Hill Ave, Valdosta, GA 31601",Valdosta,-83.3170843,30.8164364,"Burger, Seafood, Steak",40,Dollar($),3,3.7,Good,216
+376,17678231,Beijing Cafe,216,Valdosta,"1715 C Norman Drive, Valdosta, GA 31601",Valdosta,-83.318554,30.841892,"Asian, Chinese, Thai",35,Dollar($),3,3.8,Good,185
+377,17677990,Bleu Cafe,216,Valdosta,"125 N Patterson St, Valdosta, GA 31601",Valdosta,-83.279,30.8308,"Pizza, Sandwich",25,Dollar($),2,3.7,Good,185
+378,17677991,Bleu Pub,216,Valdosta,"116 W Hill Ave, Valdosta, GA 31601",Valdosta,-83.2792,30.8308,"Burger, Bar Food, Vegetarian",10,Dollar($),1,3.8,Good,281
+379,17678307,Bubba Jax Crab Shack,216,Valdosta,"1700 W Hill Ave, Valdosta, GA 31601",Valdosta,-83.3085736,30.8223548,"Fast Food, Seafood",40,Dollar($),3,3.7,Good,137
+380,17678276,Cheddar's Scratch Kitchen,216,Valdosta,"270 Norman Drive, Valdosta, GA 31601",Valdosta,-83.316402,30.824691,American,25,Dollar($),2,3.7,Good,209
+381,17678283,El Cazador,216,Valdosta,"1600 N. Ashley St., Valdosta, GA 31602",Valdosta,-83.28078,30.850888,Mexican,10,Dollar($),1,3.7,Good,168
+382,17678222,Friends Grille and Bar,216,Valdosta,"3338-B Country Club Rd, GA 31605",Valdosta,-83.29633,30.880146,"American, Southern",25,Dollar($),2,3.9,Good,243
+383,17678055,Giulios Greek & Italian Restaurant,216,Valdosta,"105 E Ann St, Valdosta, GA 31601",Valdosta,-83.2851,30.8433,"Greek, Italian",40,Dollar($),3,3.8,Good,221
+384,17678326,La Jalisco Supermercato,216,Valdosta,"1300 N. Ashley St., Valdosta, GA 31601",Valdosta,-83.281,30.8465,Mexican,10,Dollar($),1,3.5,Good,46
+385,17678229,Masato Japanese,216,Valdosta,"1337 Baytree Rd, Valdosta, GA 31602",Valdosta,-83.310343,30.846763,"Japanese, Sushi",25,Dollar($),2,3.9,Good,262
+386,17678097,Mom & Dad's Italian Restaurant,216,Valdosta,"4143 N Valdosta Rd, Valdosta, GA 31602",Valdosta,-83.3283,30.8971,Italian,25,Dollar($),2,3.7,Good,183
+387,17678216,Mori's Japanese Steakhouse & Sushi Bar,216,Valdosta,"1709 Norman Dr, Valdosta, GA 31601",Valdosta,-83.318958,30.841547,"Japanese, Steak, Sushi",70,Dollar($),4,3.5,Good,208
+388,17678233,Passage 2 India,216,Valdosta,"2910 N Ashley St Ste E, Valdosta, GA 31602",Valdosta,-83.289338,30.87114,"Indian, Middle Eastern",25,Dollar($),2,3.8,Good,245
+389,17678148,Rodeo Mexican Restaurant,216,Valdosta,"2801 N Ashley St, Valdosta, GA 31602",Valdosta,-83.2868,30.868,Mexican,25,Dollar($),2,3.8,Good,199
+390,17678291,Steel Magnolias,216,Valdosta,"132 N. Patterson St, Valdosta, GA 31601",Valdosta,-83.2796,30.8316,Southern,40,Dollar($),3,3.8,Good,225
+391,17678218,Smok'n Pig B-B-Q,216,Valdosta,"4228 N Valdosta Rd, Valdosta, GA 31602",Valdosta,-83.332796,30.897087,BBQ,25,Dollar($),2,4.1,Very Good,575
+392,17558738,Blue House Cafe,216,Vernonia,"919 Bridge St, Vernonia, OR 97064",Vernonia,-123.1954368,45.858667,"Coffee and Tea, Mediterranean",10,Dollar($),1,4.3,Very Good,88
+393,17697444,Masala Grill & Coffee House,216,Waterloo,"911 W 23rd St, Cedar Falls, IA 50613",Cedar Falls,-92.456343,42.516908,"Indian, Middle Eastern",10,Dollar($),1,3.2,Average,18
+394,17696871,Brown Bottle The Cedar Falls,216,Waterloo,"1111 Center St, Cedar Falls, IA 50613",Cedar Falls,-92.4507,42.5464,"Italian, Pizza, Vegetarian",25,Dollar($),2,3.7,Good,134
+395,17696891,Four Queens Dairy Cream,216,Waterloo,"1310 W 1st St, Cedar Falls, IA 50613",Cedar Falls,-92.4599,42.5377,Desserts,10,Dollar($),1,3.9,Good,190
+396,17696901,Hong Kong Chinese Restaurant,216,Waterloo,"6306 University Ave, Cedar Falls, IA 50613",Cedar Falls,-92.4322,42.5133,Chinese,10,Dollar($),1,3.8,Good,136
+397,17697384,HuHot Mongolian Grill,216,Waterloo,"6301 University Ave, Cedar Falls, IA 50613",Cedar Falls,-92.432177,42.512646,"Asian, Chinese",25,Dollar($),2,3.7,Good,113
+398,17697417,J's Homestyle Cooking,216,Waterloo,"1724 West 31st Street, Cedar Falls, IA 50613",Cedar Falls,-92.466597,42.509472,"American, Breakfast",10,Dollar($),1,3.6,Good,69
+399,17696918,Montage,216,Waterloo,"222 Main St, Cedar Falls, IA 50613",Cedar Falls,-92.4453,42.5366,"American, Italian, Seafood",40,Dollar($),3,3.6,Good,89
+400,17696920,Mulligan's Brick Oven Grill,216,Waterloo,"205 E 18th St, Cedar Falls, IA 50613",Cedar Falls,-92.444,42.5219,"Burger, Pizza, Sandwich",25,Dollar($),2,3.6,Good,80
+401,17697398,Sakura,216,Waterloo,"5719 university avenue, Cedar Falls, IA 50613",Cedar Falls,-92.426215,42.51259,"Japanese, Sushi",40,Dollar($),3,3.8,Good,175
+402,17697406,Scratch,216,Waterloo,"315 Main St, Cedar Falls, IA 50613",Cedar Falls,-92.4457417,42.5354081,"Coffee and Tea, Desserts, Beverages",10,Dollar($),1,3.7,Good,136
+403,17696941,SOHO Sushi Bar & Deli,216,Waterloo,"119 Main St, Cedar Falls, IA 50613",Cedar Falls,-92.4457,42.5375,"Sandwich, Sushi, Tapas",25,Dollar($),2,3.6,Good,114
+404,17696955,Texas Roadhouse,216,Waterloo,"5715 University Ave, Cedar Falls, IA 50613",Cedar Falls,-92.4291,42.5127,"American, BBQ, Steak",25,Dollar($),2,3.6,Good,93
+405,17696957,Tony's La Pizzeria,216,Waterloo,"407 Main St, Cedar Falls, IA 50613",Cedar Falls,-92.445723,42.53489,"Pizza, Sandwich",25,Dollar($),2,3.6,Good,89
+406,17697418,Chapala,216,Waterloo,"900 La Porte Road, Waterloo, IA 50702",Waterloo,-92.323032,42.477281,Mexican,25,Dollar($),2,3.6,Good,69
+407,17697386,Galleria de Paco,216,Waterloo,"622 Commercial Street, Waterloo, IA 50701",Waterloo,-92.339721,42.494908,American,40,Dollar($),3,3.6,Good,86
+408,17697224,Golden China,216,Waterloo,"106 Brookridge Dr, IA 50702",Waterloo,-92.356066,42.458979,Chinese,10,Dollar($),1,3.7,Good,73
+409,17697304,Rudy's Tacos,216,Waterloo,"2401 Falls Avenue, IA 50701",Waterloo,-92.3772,42.499705,Mexican,25,Dollar($),2,3.6,Good,104
+410,17697389,The Screaming Eagle,216,Waterloo,"228 E 4th St., Waterloo, IA 50703",Waterloo,-92.335523,42.4984,"American, Bar Food",10,Dollar($),1,3.7,Good,101
+411,17697424,The Thai Bowl,216,Waterloo,"624 Sycamore Street, Waterloo, IA 50703",Waterloo,-92.335769,42.497919,Thai,10,Dollar($),1,3.5,Good,58
+412,17697332,Tokyo Japanese Steak House,216,Waterloo,"1931 Sears Street, Waterloo, IA 50702",Waterloo,-92.3234,42.46558,"Japanese, Steak, Sushi",25,Dollar($),2,3.9,Good,156
+413,17694056,Theo Yianni's Authentic Greek Restaurant,216,Weirton,"322 American Way, Weirton, WV 26062",Weirton,-80.529488,40.396043,"Burger, Greek, Sandwich",25,Dollar($),2,3.9,Good,156
+414,17559793,Fishpatrick's Crabby Cafe,216,Winchester Bay,"196 Bayfront Loop, Winchester Bay, OR 97467",Winchester Bay,-124.175346,43.678998,"Burger, Seafood, Steak",25,Dollar($),2,3.2,Average,16
