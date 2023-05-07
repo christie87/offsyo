@@ -39,7 +39,7 @@ To use this app, follow these steps:
 2. Explore the data using the tabs: 
     - Cities: Displays a sunburst chart of the cities where the selected cuisine is available and their corresponding Zomato ratings.
     - Restaurants: Displays a bubble chart of the restaurants serving the selected cuisine in different cities, showing their Zomato ratings and votes.
-    - Highest Rated: Displays a bar chart of the top-rated restaurants ('Excellent') for the selected cuisine in different cities.
+    - Top Rated: Displays a bar chart of the restaurants rated 'Excellent' for the selected cuisine in different cities.
     
 ## Features
 
@@ -55,5 +55,5 @@ This app includes the following features:
 
 
 
-Thank you for using our US Restaurants with Zomato Ratings Dashboard app!
+Thank you for using my US Restaurants with Zomato Ratings Dashboard app!
 
