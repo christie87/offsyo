@@ -8,7 +8,7 @@ import pandas as pd
 import plotly.express as px
 import dash
 import dash_bootstrap_components as dbc
-from dash import html,dcc
+from dash import html,dcc,Dash
 from jupyter_dash import JupyterDash
 from dash.dependencies import Input, Output, State
 
@@ -24,7 +24,7 @@ cuisine_list=df['Cuisines'].unique().tolist()
 
 
 
-app = JupyterDash(__name__,external_stylesheets=[dbc.themes.SLATE],suppress_callback_exceptions=True)
+app = dash.Dash(__name__,external_stylesheets=[dbc.themes.SLATE],suppress_callback_exceptions=True)
 
 # Define the layout
 app.layout = html.Div([
