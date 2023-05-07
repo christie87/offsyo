@@ -9,7 +9,6 @@ import plotly.express as px
 import dash
 import dash_bootstrap_components as dbc
 from dash import html,dcc
-from jupyter_dash import JupyterDash
 from dash.dependencies import Input, Output, State
 
 
