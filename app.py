@@ -3,6 +3,7 @@
 
 # In[1]:
 
+pip install --upgrade pip
 
 import pandas as pd
 import plotly.express as px
