@@ -49,7 +49,7 @@ dbc.Container([
         dbc.Col([
             dbc.Tabs([
                 dbc.Tab(label="Cities", tab_id="tab-1"),
-                dbc.Tab(label="Votes", tab_id="tab-2"),
+                dbc.Tab(label="Restaurants", tab_id="tab-2"),
                 dbc.Tab(label="Top Rated", tab_id="tab-3")
             ], id="tabs", active_tab="tab-1", className="my-3")
         ], width={"size": 6}, className="my-3", align="center")
@@ -108,7 +108,7 @@ def update_tab3_graph(value):
 )
 def render_tab_content(active_tab, children, value):
     if value is None:
-        return html.Div("Please make a selection from the dropdown.")
+        return None
     elif active_tab == "tab-1":
         return dbc.Card(
             dbc.CardBody([
