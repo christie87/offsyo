@@ -24,7 +24,9 @@ cuisine_list=df['Cuisines'].unique().tolist()
 
 
 
-app = JupyterDash(__name__,external_stylesheets=[dbc.themes.SLATE],suppress_callback_exceptions=True)
+app = Dash(__name__,external_stylesheets=[dbc.themes.SLATE],suppress_callback_exceptions=True)
+
+server = app.server 
 
 # Define the layout
 app.layout = html.Div([
